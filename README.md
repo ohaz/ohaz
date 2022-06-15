@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Software Engineer working [__@methodpark__](https://github.com/methodpark) / [__@uldialogue__](https://twitter.com/uldialogue).
+I'm a Software Engineer working [__@XITASO__](https://github.com/XITASO).
 Currently I mostly write code in __C__ and __Python__, but I'm trying to learn some __Rust__.
 
 Most of the projects you'll see here are done in my free time, so forgive me if they're missing some UnitTests.
